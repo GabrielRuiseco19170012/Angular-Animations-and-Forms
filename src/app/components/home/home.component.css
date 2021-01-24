@@ -1,0 +1,22 @@
+.presentation-title {
+  font-size: 8vw;
+  font-weight: 700;
+  margin: 0;
+  color: #ffffff;
+  background: linear-gradient(to bottom, #ffffff 35%, #000000 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.subtitle{
+  color: #ffffff;
+  background: #3A6073;
+  font-size: 2vw;
+}
+
+.wrapper{
+  background-size: cover;
+  background-position: center;
+}
+
+
